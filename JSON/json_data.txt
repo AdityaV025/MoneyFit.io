@@ -1,0 +1,49 @@
+﻿{
+  "data": [
+    {
+      "date": "2020-01-01",
+      "investment_invest_value": 1100,
+      "investment_current_value": 1100
+    },
+    {
+      "date": "2020-01-02",
+      "investment_invest_value": 1200,
+      "investment_current_value": 1110
+    },
+    {
+      "date": "2020-01-03",
+      "investment_invest_value": 1300,
+      "investment_current_value": 1112
+    },
+    {
+      "date": "2020-01-04",
+      "investment_invest_value": 1400,
+      "investment_current_value": 1115
+    },
+    {
+      "date": "2020-01-03",
+      "investment_invest_value": 1500,
+      "investment_current_value": 1113
+    },
+    {
+      "date": "2020-01-03",
+      "investment_invest_value": 1600,
+      "investment_current_value": 1118
+    },
+    {
+      "date": "2020-01-03",
+      "investment_invest_value": 1700,
+      "investment_current_value": 1121
+    },
+    {
+      "date": "2020-01-03",
+      "investment_invest_value": 1800,
+      "investment_current_value": 1120
+    },
+    {
+      "date": "2020-01-03",
+      "investment_invest_value": 1900,
+      "investment_current_value": 1122
+    }
+  ]
+}
